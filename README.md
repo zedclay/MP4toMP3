@@ -32,11 +32,9 @@ You can install MoviePy using pip:
 3. The converted MP3 file will be saved to the specified output path.
 
 ## Example
-Here's an example of how to use the script:
-    ```bash
-    Enter the path of the input MP4 file: input_video.mp4
-    Enter the desired path for the output MP3 file: output_audio.mp3
-    MP4 to MP3 conversion completed.
-    ```
+1. Here's an example of how to use the script:
+    - Enter the path of the input MP4 file: input_video.mp4
+    - Enter the desired path for the output MP3 file: output_audio.mp3
+    - MP4 to MP3 conversion completed.
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
